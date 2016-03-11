@@ -1,0 +1,19 @@
+body {
+background-color: #e6ffff;
+color: #000000;
+font-family: "zapfino"; 
+}
+
+h1 {
+font-size: 3em;
+text-align: center;
+}
+
+img {
+height: 280px;
+width: 100%;
+}
+
+#smallfooter p, a{
+font-size: .5em;
+}
