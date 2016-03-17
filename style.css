@@ -8,7 +8,21 @@ h1 {
 font-size: 3em;
 text-align: center;
 }
-
+h3 {
+font-size: 3em;
+}
+p1 {
+font-size: 2em;
+font-family: "Lucida Handwriting";
+}
+p2 {
+font-size: 2em;
+font-family: "Lucida Handwriting";
+}
+p3 {
+font-size: .95em;
+font-family: "Lucida Handwriting";
+}
 img {
 height: 280px;
 width: 100%;
@@ -38,7 +52,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: cadetblue;
 }
 
 li.dropdown {
@@ -61,6 +75,6 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #4ddbff}
 
 .show {display:block;}
